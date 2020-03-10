@@ -1,0 +1,16 @@
+.e404 {
+  height: 96vh;
+  display: grid;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  color: white;
+}
+.notFound__container {
+  display: grid;
+  grid-gap: 20px;
+}
+
+.img__notFound {
+  margin: auto;
+  width: 40%;
+}
